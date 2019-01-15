@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "WLBaseViewModel"
-s.version      = "1.0.0"
+s.version      = "1.0.1"
 s.summary      = "A protocol For viewmodel."
 s.description  = <<-DESC
 A protocol For viewmodel.

@@ -8,7 +8,7 @@
 
 import Foundation
 
-protocol WLBaseViewModel {
+open protocol WLBaseViewModel {
     
     associatedtype WLInput
     associatedtype WLOutput
